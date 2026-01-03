@@ -1,4 +1,4 @@
-# Computation Science Projects
+# Computational Science Projects
 This repository contains a collection of projects developed for the Introduction to Computational Science course at USI.
 
 
