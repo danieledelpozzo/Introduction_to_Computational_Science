@@ -1,5 +1,5 @@
 # Computation Science Projects
-This repository contains a collection of projects developed for the Introduction to Computational Science course.
+This repository contains a collection of projects developed for the Introduction to Computational Science course at USI.
 
 
 # Project 3 – Polynomial Interpolation & the Runge Phenomenon
